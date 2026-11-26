@@ -1,0 +1,19 @@
+{
+  "id": "abdulmajid786123/pt-post-t3",
+  "title": "PT-POST-T3",
+  "code_file": "pt-post-t3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "kernel_sources": [
+    "abdulmajid786123/pt-infer-shared",
+    "abdulmajid786123/pt-ft2"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

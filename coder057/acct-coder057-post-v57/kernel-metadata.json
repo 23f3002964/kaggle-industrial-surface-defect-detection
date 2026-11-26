@@ -1,0 +1,23 @@
+{
+  "id": "coder057/post-v57",
+  "title": "POST-V57",
+  "code_file": "post-v57.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "coder057/isdd-u8-probs-ft4b"
+  ],
+  "kernel_sources": [
+    "coder057/dl-infer-v3",
+    "coder057/dl-train-v9",
+    "coder057/dl-infer-v4",
+    "coder057/dl-infer-v5"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

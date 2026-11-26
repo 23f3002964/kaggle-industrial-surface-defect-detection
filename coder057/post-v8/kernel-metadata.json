@@ -1,0 +1,21 @@
+{
+  "id": "coder057/dl-post-v8",
+  "title": "DL-post-v8",
+  "code_file": "post-v8.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "coder057/dl-infer-v2",
+    "coder057/dl-infer-v3"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

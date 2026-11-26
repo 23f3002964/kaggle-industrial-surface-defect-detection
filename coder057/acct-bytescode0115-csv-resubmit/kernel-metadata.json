@@ -1,0 +1,17 @@
+{
+  "id": "bytescode0115/isdd-csv-resubmit",
+  "title": "isdd csv resubmit",
+  "code_file": "resubmit.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "bytescode0115/isdd-csvs-64294"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "kernel_sources": []
+}

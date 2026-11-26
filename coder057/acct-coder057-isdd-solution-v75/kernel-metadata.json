@@ -1,0 +1,28 @@
+{
+  "id": "coder057/isdd-solution-v75",
+  "title": "ISDD-SOLUTION-V75",
+  "code_file": "isdd-solution-v75.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "segmentation",
+    "unet",
+    "ensemble"
+  ],
+  "dataset_sources": [
+    "coder057/isdd-u8-probs-ft1b",
+    "coder057/isdd-u8-probs-ft3b",
+    "coder057/isdd-u8-probs-ft4b",
+    "coder057/isdd-u8-probs-ft5b"
+  ],
+  "kernel_sources": [
+    "coder057/dl-infer-v3"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

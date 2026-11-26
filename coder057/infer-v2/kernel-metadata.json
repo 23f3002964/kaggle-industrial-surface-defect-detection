@@ -1,0 +1,22 @@
+{
+  "id": "coder057/dl-infer-v2",
+  "title": "DL-infer-v2",
+  "code_file": "infer-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "coder057/fold1-model",
+    "coder057/folds23-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}

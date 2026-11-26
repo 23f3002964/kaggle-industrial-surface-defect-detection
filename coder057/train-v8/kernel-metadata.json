@@ -1,0 +1,18 @@
+{
+  "id": "coder057/dl-train-v8",
+  "title": "DL-train-v8",
+  "code_file": "train-v8.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

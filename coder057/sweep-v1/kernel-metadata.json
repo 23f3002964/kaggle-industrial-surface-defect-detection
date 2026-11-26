@@ -1,0 +1,21 @@
+{
+  "id": "coder057/dl-sweep-v1",
+  "title": "DL-sweep-v1",
+  "code_file": "sweep-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": [
+    "coder057/attention-unet/pytorch/baseline-v1.0/1"
+  ],
+  "machine_shape": "CPU"
+}

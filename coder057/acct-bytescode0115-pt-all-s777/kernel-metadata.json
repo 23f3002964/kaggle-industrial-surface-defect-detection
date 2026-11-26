@@ -1,0 +1,19 @@
+{
+  "id": "bytescode0115/pt-all-s777",
+  "title": "PT-ALL-S777",
+  "code_file": "pt-all-s777.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}

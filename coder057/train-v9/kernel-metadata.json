@@ -1,0 +1,20 @@
+{
+  "id": "coder057/dl-train-v9",
+  "title": "DL-train-v9",
+  "code_file": "train-v9.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "coder057/fold1-model"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

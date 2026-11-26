@@ -1,0 +1,17 @@
+{
+  "id": "abdulmajid786123/isdd-csvs-copy",
+  "title": "isdd csvs copy",
+  "code_file": "isdd-csvs-copy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "coder057/isdd-csvs-nov17a"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "kernel_sources": []
+}

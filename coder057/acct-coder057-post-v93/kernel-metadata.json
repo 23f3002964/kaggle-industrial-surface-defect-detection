@@ -1,0 +1,20 @@
+{
+  "id": "coder057/post-v93",
+  "title": "POST-V93",
+  "code_file": "post-v93.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "coder057/isdd-u8-probs-all-ftb"
+  ],
+  "kernel_sources": [
+    "coder057/dl-infer-v3"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

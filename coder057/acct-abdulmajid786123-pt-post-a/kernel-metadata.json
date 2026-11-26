@@ -1,0 +1,18 @@
+{
+  "id": "abdulmajid786123/pt-post-a",
+  "title": "PT-POST-A",
+  "code_file": "pt-post-a.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "kernel_sources": [
+    "abdulmajid786123/pt-infer-shared"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

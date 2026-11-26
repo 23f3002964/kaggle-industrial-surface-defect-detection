@@ -1,0 +1,23 @@
+{
+  "id": "abdulmajid786123/pt-6m-c",
+  "title": "PT-6M-C",
+  "code_file": "pt-6m-c.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "kernel_sources": [
+    "coder057/dl-infer-v3",
+    "coder057/dl-train-v9",
+    "coder057/dl-infer-v4",
+    "coder057/dl-infer-v5",
+    "coder057/dl-rename-ft4",
+    "abdulmajid786123/pt-ft2"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

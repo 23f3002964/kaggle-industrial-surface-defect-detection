@@ -1,0 +1,14 @@
+{
+  "id": "coder057/dl-rename-ft4",
+  "title": "DL-rename-ft4",
+  "code_file": "rename-ft4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "kernel_sources": ["coder057/dl-probs-fold4ft"],
+  "competition_sources": ["industrial-surface-defect-detection"],
+  "model_sources": []
+}

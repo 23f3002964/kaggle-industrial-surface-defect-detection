@@ -1,0 +1,24 @@
+{
+  "id": "coder057/post-v63",
+  "title": "POST-V63",
+  "code_file": "post-v63.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "coder057/isdd-u8-probs-ft4b",
+    "coder057/isdd-u8-probs-ft5",
+    "coder057/isdd-u8-probs-ft1b"
+  ],
+  "kernel_sources": [
+    "coder057/dl-infer-v3",
+    "coder057/dl-infer-v4",
+    "coder057/dl-rename-ft4"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

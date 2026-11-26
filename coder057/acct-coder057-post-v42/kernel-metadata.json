@@ -1,0 +1,24 @@
+{
+  "id": "coder057/post-v42",
+  "title": "POST-V42",
+  "code_file": "post-v42.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "coder057/isdd-u8-probs-ft2"
+  ],
+  "kernel_sources": [
+    "coder057/dl-infer-v3",
+    "coder057/dl-train-v9",
+    "coder057/dl-infer-v4",
+    "coder057/dl-infer-v5",
+    "coder057/dl-rename-ft4"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

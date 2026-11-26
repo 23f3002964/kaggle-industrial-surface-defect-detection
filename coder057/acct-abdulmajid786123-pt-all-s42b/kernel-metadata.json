@@ -1,0 +1,21 @@
+{
+  "id": "abdulmajid786123/pt-all-s42b",
+  "title": "PT-ALL-S42B",
+  "code_file": "pt-all-s42b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "abdulmajid786123/pt-all-s42"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}

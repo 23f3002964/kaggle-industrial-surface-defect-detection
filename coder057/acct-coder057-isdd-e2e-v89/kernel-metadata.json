@@ -1,0 +1,26 @@
+{
+  "id": "coder057/isdd-e2e-v89",
+  "title": "ISDD-E2E-V89",
+  "code_file": "isdd-e2e-v89.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "keywords": [
+    "segmentation",
+    "unet",
+    "tta"
+  ],
+  "dataset_sources": [
+    "coder057/isdd-ftb-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": [
+    "coder057/attention-unet/pytorch/baseline-v1.0/1"
+  ],
+  "machine_shape": "NvidiaTeslaT4"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdulmajid786123/pt-infer-shared",
+  "title": "PT-infer-shared",
+  "code_file": "pt-infer-shared.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "coder057/isdd-all-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}

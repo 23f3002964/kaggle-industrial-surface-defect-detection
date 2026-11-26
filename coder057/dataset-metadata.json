@@ -1,0 +1,19 @@
+{
+  "info": {
+    "datasetId": 13434265,
+    "datasetSlug": "isdd-u8-probs-ft5b",
+    "ownerUser": "coder057",
+    "usabilityRating": 0.125,
+    "totalDownloads": 1,
+    "title": "isdd u8 probs ft5b",
+    "subtitle": "",
+    "description": "",
+    "licenses": [
+      {
+        "name": "CC0-1.0"
+      }
+    ],
+    "expectedUpdateFrequency": "not specified"
+  },
+  "isPrivate": false
+}

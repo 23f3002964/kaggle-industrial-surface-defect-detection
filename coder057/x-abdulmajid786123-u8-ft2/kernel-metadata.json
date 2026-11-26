@@ -1,0 +1,20 @@
+{
+  "id": "abdulmajid786123/u8-ft2",
+  "title": "U8-FT2",
+  "code_file": "u8-ft2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "abdulmajid786123/pt-ft2"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}

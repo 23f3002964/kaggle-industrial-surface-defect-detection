@@ -1,0 +1,22 @@
+{
+  "id": "coder057/post-v38",
+  "title": "POST-V38",
+  "code_file": "post-v38.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "kernel_sources": [
+    "coder057/dl-infer-v3",
+    "coder057/dl-train-v9",
+    "coder057/dl-infer-v4",
+    "coder057/dl-infer-v5",
+    "coder057/dl-rename-ft4"
+  ],
+  "competition_sources": [
+    "industrial-surface-defect-detection"
+  ],
+  "model_sources": []
+}
