@@ -83,7 +83,7 @@ flowchart LR
 
 ## 4. Performance Progression Chart
 
-![Industrial Surface Defect Detection Progression](assets/isdd_progression.png)
+![Industrial Surface Defect Detection Progression](assets/isdd_progression.svg)
 
 ---
 
