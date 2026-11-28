@@ -1,5 +1,7 @@
 # Industrial Surface Defect Detection — Segmentation Solution
 
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-@adityaraj0612-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityaraj0612)
+
 A multi-fold deep learning semantic segmentation solution for **Industrial Surface Defect Detection**, achieving a best verified score of **`0.64868`** (and `0.64999` on budget sweep `v26`) using **Attention-UNet** ensembles, targeted fold fine-tuning, quantized cross-account probability fusion, and connected-component post-processing.
 
 ---
