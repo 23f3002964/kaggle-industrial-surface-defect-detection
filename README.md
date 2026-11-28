@@ -6,6 +6,20 @@ A multi-fold deep learning semantic segmentation solution for **Industrial Surfa
 
 ---
 
+## 💡 In Simple Terms (Non-Technical Guide & Examples)
+
+> *New to computer vision or reviewing from a non-technical background? Here is what this project does in plain English before the technical deep-dive below.*
+
+- **The Goal:** Automatically inspect **11,393** factory metal-surface images and **highlight the exact pixels** where any of 4 manufacturing defects (scratches, pits, patches) appear — while staying completely silent on clean, defect-free sheets.
+- **Why It Was Tricky (Real-World Example):** Imagine inspecting smartphone glass under a bright lamp. If your system mistakes a harmless speck of dust for a crack, a perfectly good product gets thrown away (*false positive*). If it misses a faint scratch, a defective product reaches the customer.
+- **What We Built:**
+  1. **Smart Magnifying-Glass AI (5-Fold Attention-UNet):** Trained 5 deep-learning vision models that learn to focus attention on abnormal surface textures while ignoring clean metal backgrounds.
+  2. **Two-Angle Inspection (Horizontal Flip TTA):** Checked every image both normally and mirrored — similar to tilting a screen under light from two angles to confirm a scratch is real.
+  3. **Targeted Retraining & Noise Cleanup:** Gave extra training epochs to the weakest fold models and filtered out tiny 1–2 pixel "dust" specks so only real defects were marked.
+- **Outcome:** Improved the leaderboard detection score from **0.62226 → 0.64868** (and **0.64999** in post-processing pixel-budget sweeps).
+
+---
+
 ## 1. Competition Overview & Dataset
 
 | Property | Detail |
